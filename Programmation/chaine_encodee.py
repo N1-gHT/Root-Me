@@ -1,3 +1,4 @@
+#This is the old version with IRC
 
 import socket, sys,time, base64
 
