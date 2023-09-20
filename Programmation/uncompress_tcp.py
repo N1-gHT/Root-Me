@@ -1,3 +1,5 @@
+#This is the actual version
+#Fully fuctionnal but response is wrong
 
 import socket, sys,time, base64, zlib
 m = 0
