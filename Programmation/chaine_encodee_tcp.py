@@ -1,4 +1,5 @@
-
+#This is the actual version
+#Fully functionnal
 import socket, sys, base64
 
 #Informations du serveur
