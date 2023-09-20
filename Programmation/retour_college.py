@@ -1,3 +1,5 @@
+# This is the old version with IRC
+
 from math import sqrt
 import socket, sys, re
 import time
