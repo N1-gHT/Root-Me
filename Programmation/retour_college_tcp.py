@@ -1,3 +1,6 @@
+#This is the actual version
+#Fully functionnal
+
 from math import sqrt
 import socket, sys, re
 import time
